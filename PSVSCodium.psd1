@@ -18,7 +18,7 @@ ModuleVersion = '0.1'
 # CompatiblePSEditions = @()
 
 # ID used to uniquely identify this module
-GUID = '6f5a1e0b-72aa-4423-b116-d57a96baf30e'
+GUID = 'b8f996f7-c88a-44f2-9e20-500c3e112935'
 
 # Author of this module
 Author = 'Jarrod Rother'
